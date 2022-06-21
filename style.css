@@ -92,10 +92,10 @@ img{
       margin: 6%;
       margin-top: 0;
    }
-}
 
-@media(max-height: 650px){
-   .box{
-      height: 500px;
+   @media(max-height: 650px){
+      .box{
+         height: 500px;
+      }
    }
 }
